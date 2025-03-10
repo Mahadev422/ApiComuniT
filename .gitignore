@@ -1,0 +1,14 @@
+# 🚀 Ignore Node modules (installed dependencies)
+node_modules/
+
+# 🔑 Ignore environment variables (DO NOT expose API keys or secrets)
+.env
+
+# 📝 Ignore editor settings and dependencies
+.vscode/
+.idea/
+*.swp
+
+# ⚙️ Ignore build files (if applicable)
+dist/
+build/
